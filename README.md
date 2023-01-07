@@ -2,10 +2,9 @@
 
 Hey I'm Jbz or "Aleksi"
 
-My repositories are written in either
+My repositories are mostly written in either
 - c#
 - Python
-- Html
 
 
 ###What im good at doing
