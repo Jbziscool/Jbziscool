@@ -2,10 +2,10 @@
 
 ![Visits](https://komarev.com/ghpvc/?username=Zef-Side)
 
-### Languages
 
+Most of my github repos are in thesse languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![c#](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png)
+![c#](https://miro.medium.com/max/1400/1*w0u2TZpEp3WfKMrlL5jTSw.png)
 
 
 ###What im good at doing
