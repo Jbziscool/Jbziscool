@@ -1,7 +1,6 @@
-#Hey I am jbz
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jbziscool)](https://github.com/anuraghazra/github-readme-stats)
 
+Hey I'm Jbz or "Aleksi"
 
 My repositories are written in either
 - c#
