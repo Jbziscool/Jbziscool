@@ -1,6 +1,6 @@
-# Jbz
+#Hey I am jbz
 
-![Visits](https://komarev.com/ghpvc/?username=Zef-Side)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jbziscool)](https://github.com/anuraghazra/github-readme-stats)
 
 
 My repositories are written in either
