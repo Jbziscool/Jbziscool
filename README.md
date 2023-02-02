@@ -16,5 +16,5 @@ My repositories are mostly written in either
 I barely know any c# im semi learning it though
 
 
-test
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=microsoft)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Microsoft)](https://github.com/anuraghazra/github-readme-stats)
