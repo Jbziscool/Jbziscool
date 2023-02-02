@@ -2,7 +2,7 @@
 
 Hey I'm Jbz or "Aleksi"
 
-My repositories are mostly written in either
+Most of my repositories are mostly written in either
 - c#
 - Python
 
@@ -14,7 +14,3 @@ My repositories are mostly written in either
 
 
 I barely know any c# im semi learning it though
-
-
-
-[![ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Microsoft)](https://github.com/anuraghazra/github-readme-stats)
