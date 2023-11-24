@@ -11,8 +11,6 @@
 
 <img width="20" src="https://i.imgur.com/1WcR1qE.png" /> C#
 
-<img width="20" src="https://banner2.cleanpng.com/20180811/fwb/kisspng--5b6f68be63a406.9717291515340279664081.jpg" /> Ruby (I havent used in ages and I think I know it even though I barely know shit lmao)
-
 
 ## Social links/how to contact
 - Discord: Jbziscool
