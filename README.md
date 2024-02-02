@@ -14,7 +14,7 @@
 
 ## Social links/how to contact
 - Discord: Jbziscool
-- Want to email me? cvqr08llb@mozmail.com
+- Want to email me? cvqr08llb@mozmail.com or jbz@jbzis.tech
 - My shit website: https://jbziscool.github.io/
 
 ## 
